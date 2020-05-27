@@ -1,0 +1,37 @@
+
+{                                                                                
+  "name": "be.eloistree.hellounitypackage",                              
+  "displayName": "Hello Unity Package Toolbox",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package is a demo of how we can build package in the package manager of Unity. 
+  It also is linked to a full tutorial you can find here: 
+eloistree.page.link/hellopackage
+
+Feel free to pay me coffee to make my day: 
+ko-fi.com/eloistree",
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+   "samples" : [
+ { 
+      "displayName":"Sample Demo" ,
+      "description":"Get a sample demo of the tools" ,
+ 
+       "path":"Sample~/PatatoSample"
+  },
+
+    
+  "author" : {
+ "name":"Eloi Stree",
+ "mail":"streeeloi@gmail.com",
+ "url":"https://eloistree.page.link/toolbox"},     
+   "repository":{
+ "type":"Git",
+ "url":"https://github.com/EloiStree/2019_01_30_HelloUnityPackageToolbox.git",
+ "footprint":"",
+ "revision":"08466347b91f050bbb942c2697c6cb739c90bcb1"},     
+  "category": "Script"                   
+} 
+ 
